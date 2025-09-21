@@ -21,4 +21,5 @@ elif time_bound == "no":
     reminder += " Consider completing it when you have free time."
 
 # Print customized reminder
-print("\n" + reminder)
+print(reminder)
+
