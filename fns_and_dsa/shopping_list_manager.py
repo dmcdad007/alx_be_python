@@ -1,7 +1,7 @@
 # shopping_list_manager.py
 
 def display_menu():
-    print("Shopping List Manager")
+    print(f"Shopping List Manager")
     print(f"1. Add an item")
     print(f"2. Remove an item")
     print(f"3. View shopping list")
@@ -52,5 +52,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
